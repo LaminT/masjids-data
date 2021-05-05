@@ -2239,5 +2239,13 @@
 			"display_phone": "+46 40 1905 55",
 			"distance": 2.61
 		}
-	]
+
+	],
+	"total": 22,
+	"region": {
+		"center": {
+			"longitude": 12.53236,
+			"latitude": 55.674755
+		}
+	}
 }
