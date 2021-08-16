@@ -418,7 +418,7 @@
 		{
 			"id": "2ZLV6f_MiE",
 			"name": "Masjid Al-Muhsinin",
-			"image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t1.18169-1/28471798_1010777845740236_2001074556664999204_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=jrjgTgeuoPYAX-fFRNg&_nc_ht=scontent-arn2-1.xx&oh=d30df31a0d31cef59229adcfed3e35f7&oe=60B29326",
+			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1620476313/mosques/mushsinin.jpg",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/b75e9b7a-e1af-4b71-91c5-5758fc262d21",
 			"url": "",
 			"categories": [{
@@ -450,7 +450,7 @@
 		{
 			"id": "zPqnuy4MQI",
 			"name": "Helsingør Islamisk Menighed",
-			"image_url": "https://ditsamfund.dk/wp-content/uploads/2020/04/84051428_361516094731568_6738817714787188736_n-e1586041570613.jpg",
+			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1620478226/mosques/ditsamfund.jpg",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/3e63be25-3bd5-472a-ba15-c97385fe899b",
 			"url": "https://ditsamfund.dk/",
 			"categories": [{
@@ -482,7 +482,7 @@
 		{
 			"id": "2LL32kDwCk",
 			"name": "Masjid Al-Furqan",
-			"image_url": "",
+			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1621939695/mosques/al-Furqan.jpg",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/39c7e64b-e3b1-489a-a2f9-d0f6cf4af4b9",
 			"url": "",
 			"categories": [{
@@ -514,7 +514,7 @@
 		{
 			"id": "mrN8-sWAvJ",
 			"name": "Masjid Rahma Holbæk",
-			"image_url": "",
+			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1621940775/mosques/masjidRahma_Holb%C3%A6k.jpg",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/f76a8cef-c3cf-49a3-9a8f-2bedea07c492",
 			"url": "",
 			"categories": [{
@@ -546,9 +546,9 @@
 		{
 			"id": "JPT4tidz5W",
 			"name": "Masjid Al-Noor",
-			"image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t1.18169-9/24909893_441762036220462_474295370941929488_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=973b4a&_nc_ohc=TL6cp76HtVEAX-mNKhl&_nc_ht=scontent-arn2-1.xx&oh=7c8729ed74bf2421ff2537762c84711f&oe=60B61EE0",
+			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1621258042/mosques/noor.jpg",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/7a9c2624-6dca-4a01-9dc0-16a3c604a3be",
-			"url": "https://www.facebook.com/MasjidHolstebro/?ref=page_internal",
+			"url": "",
 			"categories": [{
 				"alias": "masjids",
 				"title": "Masjids"
