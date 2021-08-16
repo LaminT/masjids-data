@@ -258,7 +258,7 @@
 		{
 			"id": "WOgJ5gxDxD",
 			"name": "MKC-Vestegnen",
-			"image_url": "",
+			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1629113815/mosques/mkc-vestegnen.jpg",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/e71c04a3-db20-4a9b-9cd2-c63c5970ffe7",
 			"url": "http://www.mkcenter.dk/",
 			"categories": [{
@@ -290,7 +290,7 @@
 		{
 			"id": "g13CKXfUUW",
 			"name": "Brøndby Islamisk Menighed",
-			"image_url": "https://ditsamfund.dk/wp-content/uploads/2020/04/84051428_361516094731568_6738817714787188736_n-e1586041570613.jpg",
+			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1629113960/mosques/br%C3%B8ndby-islamisk-menighed.jpg",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/c5816387-12f0-474c-bd4f-ade0462bfa7f",
 			"url": "https://ditsamfund.dk/",
 			"categories": [{
@@ -322,9 +322,9 @@
 		{
 			"id": "uDIjau9Br_",
 			"name": "PAK Kultur Center Brøndby",
-			"image_url": "https://scontent-arn2-2.xx.fbcdn.net/v/t1.6435-9/46648908_2184209934936239_6817869980894232576_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=973b4a&_nc_ohc=zL0AfHus_qkAX_Sd-cl&_nc_ht=scontent-arn2-2.xx&oh=78a44dfebdcfb783aaef502fc307a032&oe=60B5AFC9",
+			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1629114391/mosques/pak-kultur-center-br%C3%B8ndby.jpg",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/122f8723-e2ec-4b2d-b664-cebc9ef2c2af",
-			"url": "https://da-dk.facebook.com/Pak-Culture-Center-Brb-1111415905548986",
+			"url": "",
 			"categories": [{
 				"alias": "masjids",
 				"title": "Masjids"
@@ -354,9 +354,9 @@
 		{
 			"id": "ZOQGhANMD2",
 			"name": "Darul Arqam Center",
-			"image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t1.18169-1/28471798_1010777845740236_2001074556664999204_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=jrjgTgeuoPYAX-fFRNg&_nc_ht=scontent-arn2-1.xx&oh=d30df31a0d31cef59229adcfed3e35f7&oe=60B29326",
+			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1629114942/mosques/darul-arqam-center.jpg",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/72e5242b-1210-446b-8b4b-b23332ac070f",
-			"url": "https://www.facebook.com/DarulArqamDenmark/",
+			"url": "",
 			"categories": [{
 				"alias": "masjids",
 				"title": "Masjids"
@@ -385,10 +385,10 @@
 		},
 		{
 			"id": "U81dQwldlb",
-			"name": "Masjid Al-Imam",
-			"image_url": "https://lh3.googleusercontent.com/p/AF1QipPy8UKiSe_pQXfapgpUR3rroNOOn92gp2oA9m3h=s1600-w400",
+			"name": "Masjid Al-Imam Ahmed",
+			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1629115731/mosques/masjid-Al-imam-ahmed.jpg",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/706051ee-1be8-430c-a6c6-e6cd7ab758bb",
-			"url": "https://maps123.net/en/DK/masjid-al-imam-ahmed-p81762",
+			"url": "",
 			"categories": [{
 				"alias": "masjids",
 				"title": "Masjids"
