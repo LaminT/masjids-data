@@ -2,7 +2,7 @@
 	"masjids": [{
 			"id": "IVP5AscK-X",
 			"name": "Aalborg Moske",
-			"image_url": "https://www.kfuv.dk/wp-content/uploads/2017/10/02_hjulmagervej5_facade_11.jpg",
+			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1629108196/aalborg_moske_wjhkly.jpg",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/1820245c-9db2-4b80-b9b7-d93dbb7879ef",
 			"url": "https://www.kfuv.dk/",
 			"categories": [{
@@ -66,7 +66,7 @@
 		{
 			"id": "R6Ye7gscTk",
 			"name": "Århus Islamisk Menighed",
-			"image_url": "https://ditsamfund.dk/wp-content/uploads/2020/04/82091530_348852539331257_9133739286317760512_n-e1586041523194.jpg",
+			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1620478226/mosques/ditsamfund.jpg",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/1b89a9b2-d171-4f0e-9868-a5912f5d0e0e",
 			"url": "https://ditsamfund.dk/om/menigheder/",
 			"categories": [{
@@ -130,9 +130,9 @@
 		{
 			"id": "IhT-ATCbat",
 			"name": "Masjid Bilal",
-			"image_url": "https://bilal-islamic-center.dk/____impro/1/onewebmedia/169764_1713146022112_8260812_o.jpg?etag=%2253f2c-5c8bc775%22&sourceContentType=image%2Fjpeg&quality=85&ignoreAspectRatio&resize=1500,917",
+			"image_url": "",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/45a0db73-58c7-455c-928d-a9e99d789f69",
-			"url": "https://bilal-islamic-center.dk/",
+			"url": "",
 			"categories": [{
 				"alias": "masjids",
 				"title": "Masjids"
